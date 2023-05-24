@@ -10,7 +10,6 @@ body {
 
 .attribution {
     font-size: 11px;
-    /* text-align: center; */
 }
 
 .attribution a {
@@ -19,7 +18,6 @@ body {
 
 .card {
     width: 250px;
-    /* height: 200px; */
     padding: 15px;
     background-color: white;
     border-radius: 5%;
